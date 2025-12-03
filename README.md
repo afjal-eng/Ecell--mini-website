@@ -1,1 +1,1 @@
-# Ecell--mini-website
+This is a mini website of E-CELL for 3rd round task. I am attempting easy and medium level of task which is an awareness and this miniwebsite. hope you will observe my beginning skills # Ecell--mini-website
